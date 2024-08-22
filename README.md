@@ -52,7 +52,7 @@ La solución incluye:
 	•	Extracción de Texto desde PDFs: Utilizando PyMuPDF.
 	•	Procesamiento y Limpieza de Texto: Normalización y limpieza del texto extraído.
 	•	Uso de LLMs para Extracción de Información: Implementación de un modelo de lenguaje grande para extraer información clave del texto.
-	•	Generación de JSON con Resultados: Incluyendo los valores extraídos y el score de precisión.
+	•	Generación de JSON con Resultados: Incluyendo los valores extraídos.
 
 ### Resultados y Conclusiones
 
